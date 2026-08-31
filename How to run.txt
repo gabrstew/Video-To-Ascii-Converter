@@ -1,0 +1,3 @@
+cd "C:\Users\gabes\Vidoe ASCII"
+.\.venv\Scripts\activate
+python main.py
